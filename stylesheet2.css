@@ -1,0 +1,76 @@
+
+
+     
+      input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 40px;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+        font-family: 'Montserrat', sans-serif;
+        border-radius: 40px;
+      }
+      
+      input[type=submit] {
+        background-color: #F3ED01;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        cursor: pointer;
+        border-radius: 50px;
+       
+      }
+      
+      input[type=submit]:hover {
+        background-color: #dab6f8;
+        border-radius: 50px;
+      }
+      
+     
+      .container {
+        
+        margin-top: 50px;
+         padding: 10px;
+         margin-left: 40px;
+         border-radius: 40px;
+         height: 100vh;
+         
+         
+       }
+       
+       
+       .column {
+         float: left;
+         position: absolute;
+         width: 40%;
+         margin-top: 6px;
+         border-radius: 40px;
+         
+       }
+       
+       
+       .row2:after {
+         content: "";
+         display: table;
+         clear: both;
+        
+       }
+       
+     .textbox {
+         padding-top: 70px ;
+     }
+ 
+     .button {
+         border-radius: 50px;
+         
+     }
+     .illustration  {
+       float: right;
+       margin-right: 30px;
+       
+     }
+    
+
+    
